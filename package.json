@@ -3,13 +3,15 @@
   "version": "0.1.0",
   "description": "Parser and validator for OpenAPI 3.0",
   "main": "lib/index.js",
+  "repository": "unjello/openapi-parser", 
   "scripts": {
     "test": "standard"
   },
   "keywords": [
     "openapi3",
     "oapi3",
-    "swagger"
+    "swagger",
+    "oasv3",
   ],
   "author": "Andrzej Lichnerowicz <andrzej@lichnerowicz.pl>",
   "license": "Unlicense",
