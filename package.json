@@ -11,7 +11,7 @@
     "openapi3",
     "oapi3",
     "swagger",
-    "oasv3",
+    "oasv3"
   ],
   "author": "Andrzej Lichnerowicz <andrzej@lichnerowicz.pl>",
   "license": "Unlicense",
