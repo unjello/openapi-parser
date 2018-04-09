@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Parser and validator for OpenAPI 3.0",
   "main": "lib/index.js",
-  "repository": "unjello/openapi-parser", 
+  "repository": "unjello/openapi-parser",
   "scripts": {
     "test": "standard"
   },
@@ -20,6 +20,7 @@
     "json-schema-ref-parser": "^5.0.0"
   },
   "devDependencies": {
+    "jest": "^22.4.3",
     "standard": "^11.0.1"
   }
 }
