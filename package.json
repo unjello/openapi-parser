@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": "unjello/openapi-parser",
   "scripts": {
-    "test": "standard"
+    "test": "standard --env jest && jest"
   },
   "keywords": [
     "openapi3",
